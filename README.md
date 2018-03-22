@@ -1,7 +1,9 @@
 # DependencyParsingTreeSVG
 Create DependencyParsingTree SVG by javascript
+
 一个使用javascript创建句法依存树svg的模块，仅依赖jquery
-改造自[这里](http://x-algo.cn/index.php/2016/03/13/293/)
+
+改造自[这里](http://x-algo.cn/index.php/2016/03/13/293/)，找不到原作者的名字（希望原作者能联系指教），本人进行了一些代码格式、参数外置，bug优化的工作
 
 >### 使用方法:
 >1. 直接将DependencyParsingTree.js复制到适当的工程目录下
