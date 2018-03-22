@@ -6,8 +6,7 @@ Create DependencyParsingTree SVG by javascript
 改造自[这里](http://x-algo.cn/index.php/2016/03/13/293/)，找不到原作者的名字（希望原作者能联系指教），本人进行了一些代码格式、参数外置，bug优化的工作
 
 >### 使用方法:
->1. 直接将DependencyParsingTree.js复制到适当的工程目录下
->2. 将DependencyParsingTree.js引入项目中
+>1. 将DependencyParsingTree.js引入项目中
 >3. 调用GDepParser方法，传递参数：
 >   ```
 >   var node_list = [
